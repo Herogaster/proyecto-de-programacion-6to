@@ -1,0 +1,31 @@
+.fiel{
+    color: white;
+    
+
+}
+.h1{
+    color: antiquewhite;
+    -webkit-text-stroke: 100% blue;
+}
+.h2{
+    color: antiquewhite;
+    -webkit-text-stroke: 100% blue;
+}
+.aurusinicio{
+     background-color: black;
+}
+
+.aurusfinal{
+     background-color: black;
+}
+
+
+.aurus{
+    background-color: black;
+    background-image: url(https://w0.peakpx.com/wallpaper/348/238/HD-wallpaper-joystick-play-ps4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+video{
+    border-radius: 20px;
+}
